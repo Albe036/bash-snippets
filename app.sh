@@ -11,7 +11,7 @@ if [ $err_code -ne $SUCCESS_CODE ]; then
 else
     echo "La ruta existe!!"
     for file in ./data/*; do
-        echo "Archivo: $file"
+        echo "files --> $file"
     done
 fi
 #$? --> 0 Exito! Ruta encontrada
