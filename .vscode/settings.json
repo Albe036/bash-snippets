@@ -1,0 +1,12 @@
+{
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "JetBrainsMono Nerd Font Mono",
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font Mono",
+  "terminal.integrated.fontSize": 15,
+  "editor.fontSize": 18,
+  "editor.lineHeight": 28,
+  "editor.letterSpacing": -0.5,
+  "editor.cursorBlinking": "smooth",
+  "terminal.integrated.fontWeightBold": "normal",
+  "workbench.colorTheme": "Ayu Dark Lighter",
+}

@@ -1,0 +1,9 @@
+console.log("Hello world");
+
+dcl-proc;
+end-proc;
+do;
+end-do;
+monitor;
+on-error;
+endmon;
