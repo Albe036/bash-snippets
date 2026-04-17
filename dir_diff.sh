@@ -14,11 +14,11 @@ elif [ $# -gt 2 ]; then
 fi
 
 if [[ ! -d "$pathOne" ]]; then
-  echo "La ruta $pathOne existe"
+  echo "La ruta $pathOne no existe"
   exit 1
 fi
 if [[ ! -d "$pathTwo" ]]; then
-  echo "La ruta $pathTwo existe"
+  echo "La ruta $pathTwo no existe"
   exit 1
 fi
 echo "-----------------------------"
